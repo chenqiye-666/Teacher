@@ -1,0 +1,7 @@
+{
+  "name": "辅导员智汇 - 全功能班级管理系统",
+  "description": "为大学辅导员打造的高效、美观且有温度的班级管理SaaS系统，集成学生信息、宿舍全景、谈心谈话及发展记录。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
